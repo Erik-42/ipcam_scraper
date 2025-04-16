@@ -61,3 +61,5 @@ python3 ipcam_scraper.py
 ```
 Les fichiers récupérés seront disponibles dans le dossier `dump/`.
 
+⚠️ Légalité & usage
+Ce projet est destiné uniquement à des fins de recherche personnelle, de rétro-ingénierie ou d’audit sur du matériel que vous possédez. Ne pas utiliser sans autorisation sur des réseaux tiers.
